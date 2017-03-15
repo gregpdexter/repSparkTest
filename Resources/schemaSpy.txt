@@ -1,0 +1,1 @@
+C:\Users\greg\Downloads>java -jar ./schemaSpy_5.0.0.jar -schema comments -t mssql05 -host 10.10.0.1 -port 1433 -db repspark.OluKai -u sa  -p 0P7q2LBnGfabP0DLOs3y  -dp sqljdbc42.jar -o temp
